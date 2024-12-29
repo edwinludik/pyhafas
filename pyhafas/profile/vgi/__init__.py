@@ -3,7 +3,7 @@ import pytz
 from pyhafas.profile.base import BaseProfile
 
 
-class DBProfile(BaseProfile):
+class INVGProfile(BaseProfile):
     """
     Profile of the HaFAS of Verkehrsverbund Großraum Ingolstadt, previously known as Ingolstädter Verkehrsgesellschaft (INVG)
     """
